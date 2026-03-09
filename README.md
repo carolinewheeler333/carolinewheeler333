@@ -64,7 +64,7 @@ Computer Vision prototype that maps Pinterest mood board aesthetics onto a curat
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=carolinewheeler333&theme=tokyonight&hide_border=true&background=0D1117&ring=A0C4FF&fire=A0C4FF&currStreakLabel=A0C4FF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=carolinewheeler333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A0C4FF&icon_color=A0C4FF&count_private=true&include_all_commits=true&show=reviews,discussions_started"/>
 
 </div>
 
