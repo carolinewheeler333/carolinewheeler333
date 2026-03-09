@@ -1,0 +1,72 @@
+<svg width="854" height="170" viewBox="0 0 854 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4568dc">
+        <animate attributeName="stop-color" values="#4568dc;#b06ab3;#A0C4FF;#4568dc" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#b06ab3">
+        <animate attributeName="stop-color" values="#b06ab3;#A0C4FF;#4568dc;#b06ab3" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0D1117" rx="6"/>
+
+  <!-- Animated top accent bar -->
+  <rect x="0" y="0" width="854" height="3" rx="1.5">
+    <animate attributeName="fill" values="#4568dc;#b06ab3;#A0C4FF;#4568dc" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Decorative dots — left -->
+  <circle cx="55" cy="80" r="3" fill="#4568dc">
+    <animate attributeName="opacity" values="1;0.15;1" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="35" cy="105" r="2" fill="#b06ab3">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="78" cy="58" r="1.5" fill="#A0C4FF">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="25" cy="60" r="1" fill="#4568dc">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Decorative dots — right -->
+  <circle cx="799" cy="80" r="3" fill="#4568dc">
+    <animate attributeName="opacity" values="0.15;1;0.15" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="819" cy="105" r="2" fill="#b06ab3">
+    <animate attributeName="opacity" values="1;0.2;1" dur="3.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="776" cy="58" r="1.5" fill="#A0C4FF">
+    <animate attributeName="opacity" values="1;0.5;1" dur="2.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="829" cy="60" r="1" fill="#4568dc">
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Name with animated gradient + glow -->
+  <text x="427" y="92"
+    text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="50"
+    font-weight="700"
+    fill="url(#nameGrad)"
+    filter="url(#glow)">Caroline Wheeler</text>
+
+  <!-- Subtitle -->
+  <text x="427" y="132"
+    text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="14"
+    letter-spacing="2.5"
+    fill="#8b949e">MSc Business Analytics · ESADE Barcelona · AI &amp; Data Science</text>
+</svg>
