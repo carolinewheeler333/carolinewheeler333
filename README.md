@@ -1,20 +1,33 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4568dc,100:b06ab3&height=120&section=header&text=Caroline%20Wheeler&fontSize=40&fontColor=fff&fontAlignY=55&desc=MIBA%20%7C%20AI%20%26%20Data%20Science%20%7C%20ESADE%20Barcelona&descSize=15&descAlignY=80" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A0C4FF&center=true&vCenter=true&width=520&lines=Building+things+with+data+%26+AI;F1+strategy+models+%7C+computer+vision+%7C+NLP;Always+asking+why+before+how." alt="Typing SVG" />
-</a>
-
-</div>
+   
+   <br>
+   
+   ## `< Caroline Wheeler />`
+   
+   <br>
+   
+   <img src="https://img.shields.io/badge/ESADE-MIBA-4568dc?style=for-the-badge&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Barcelona-🇪🇸-b06ab3?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-0D1117?style=for-the-badge&logo=python&logoColor=A0C4FF"/>
+   
+   <br><br>
+   
+   <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A0C4FF&center=true&vCenter=true&width=520&lines=Building+things+with+data+%26+AI;F1+strategy+models+%7C+comp
+  uter+vision+%7C+NLP;Always+asking+why+before+how." alt="Typing SVG" />
+   </a>
+   
+   <br>
+   
+   </div>
 
 ---
 
 ### 👋 About me
 
-MSc Business Analytics at ESADE, with a focus on ML, NLP, and applied AI systems. Currently working with the **Hospital Clínic Barcelona** — one of the world's leading hepatic oncology centres — on a GenAI capstone research project backed by an AGAUR research-to-market grant. The brief: replace a slow, error-prone manual process for extracting structured data from free-text radiology reports with an AI extraction pipeline, validate it with clinical experts, and build toward a proof of concept that could lead to a research publication.
+MSc Business Analytics at ESADE, with a focus on ML, NLP, and applied AI systems. Currently working with the **Hospital Clínic Barcelona**, one of the world's leading hepatic oncology centres, on a GenAI capstone research project backed by an AGAUR research-to-market grant. The brief: replace a slow, error-prone manual process for extracting structured data from free-text radiology reports with an AI extraction pipeline, validate it with clinical experts, and build toward a proof of concept that could lead to a research publication.
 
-Outside of that: building things I find genuinely interesting — an F1 pit stop strategy engine, a computer vision fashion recommender, and whatever else seems worth making. The projects are on this page.
+Outside of that: building things I find genuinely interesting, an F1 pit stop strategy engine, a computer vision fashion recommender, and whatever else seems worth making. The projects are on this page.
 
 ---
 
@@ -42,7 +55,7 @@ Outside of that: building things I find genuinely interesting — an F1 pit stop
 <td valign="top" width="50%">
 
 #### 🏎️ F1 Pit Stop Strategy Engine
-ML system predicting optimal pit window timing from real race data (2019–2024). Five-model ensemble comparing Random Forest vs Gradient Boosting across lap time degradation, pit duration, in/out lap performance and safety car probability — served via a 3D React dashboard with a live strategy visualiser.
+ML system predicting optimal pit window timing from real race data (2019–2024). Five-model ensemble comparing Random Forest vs Gradient Boosting across lap time degradation, pit duration, in/out lap performance and safety car probability — served via a 3D React dashboard with a live strategy visualiser. Built for the Artificial Intelligence II course at ESADE.
 
 `Python` · `scikit-learn` · `FastF1` · `React` · `Three.js`
 
@@ -50,7 +63,7 @@ ML system predicting optimal pit window timing from real race data (2019–2024)
 <td valign="top" width="50%">
 
 #### 🧵 Thread Trace
-Computer Vision prototype that maps Pinterest mood board aesthetics onto a curated vector space of second-hand fashion listings using feature extraction and embedding similarity. Built for the PDAI course at ESADE.
+Computer Vision prototype that maps Pinterest mood board aesthetics onto a curated vector space of second-hand fashion listings using feature extraction and embedding similarity. Built for the Prototyping with Data and AI course at ESADE.
 
 `Python` · `Streamlit` · `Computer Vision` · `Embeddings`
 
