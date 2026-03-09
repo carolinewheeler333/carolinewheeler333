@@ -10,9 +10,9 @@
 
 ### 👋 About me
 
-MSc Business Analytics at ESADE, with a focus on ML, NLP, and applied AI systems. Currently working with the **Hospital Clínic Barcelona** — one of the world's leading hepatic oncology centres — on a GenAI capstone research project backed by an AGAUR research-to-market grant. The brief: replace a slow, error-prone manual process for extracting structured data from free-text radiology reports with an AI extraction pipeline, validate it with clinical experts, and build toward a proof of concept that could lead to a research publication.
+MSc Business Analytics at ESADE, with a focus on ML, NLP, and applied AI systems. Currently working with the **Hospital Clínic Barcelona**, one of the world's leading hepatic oncology centres, on a GenAI capstone research project backed by an AGAUR research-to-market grant. The brief: replace a slow, error-prone manual process for extracting structured data from free-text radiology reports with an AI extraction pipeline, validate it with clinical experts, and build toward a proof of concept that could lead to a research publication.
 
-Outside of that: building things I find genuinely interesting — an F1 pit stop strategy engine, a computer vision fashion recommender, and whatever else seems worth making. The projects are on this page.
+Outside of that: building things I find genuinely interesting; an F1 pit stop strategy engine, a computer vision fashion recommender, and whatever else seems worth making. The projects are on this page.
 
 ---
 
