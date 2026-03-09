@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4568dc,100:b06ab3&height=200&section=header&text=Caroline%20Wheeler&fontSize=48&fontColor=fff&fontAlignY=36&desc=MIBA%20%7C%20AI%20%26%20Data%20Science%20%7C%20ESADE%20Barcelona&descSize=17&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4568dc,100:b06ab3&height=120&section=header&text=Caroline%20Wheeler&fontSize=40&fontColor=fff&fontAlignY=55&desc=MIBA%20%7C%20AI%20%26%20Data%20Science%20%7C%20ESADE%20Barcelona&descSize=15&descAlignY=80" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A0C4FF&center=true&vCenter=true&width=520&lines=Building+things+with+data+%26+AI;F1+strategy+models+%7C+computer+vision+%7C+NLP;Always+asking+why+before+how." alt="Typing SVG" />
@@ -75,6 +75,6 @@ Computer Vision prototype that maps Pinterest mood board aesthetics onto a curat
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4568dc,100:b06ab3&height=60&section=footer" width="100%"/>
 
 </div>
